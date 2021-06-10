@@ -1,2 +1,3 @@
 # Object-detection-using-Single-Shot-MultiBox-Detector-SSD
 In this project, different objects from a video file are detected using a pre-trained SSD file that contains the weights of the SSD neural network . The torch library (PyTorch) is used for computing efficiently the gradients of composition functions in backward propagation. Imageio library is used for processing the images of the video.
+ssd300_mAP_77.43_v2.pth file is the file which is used to get the pre-trained SSD model and more precisely this is the file that contains the weight of the SSD neural network that is pre-trained. It can be downloaded from the following link: https://s3.amazonaws.com/amdegroot-models/ssd300_mAP_77.43_v2.pth
